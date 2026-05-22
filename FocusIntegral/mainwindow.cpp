@@ -66,7 +66,7 @@ void MainWindow::on_startButton_clicked()
 
 
 
-    ui->currentTaskLabel->setText("🎯Работаем над: " + currentActiveTask);
+    ui->currentTaskLabel->setText("Текущая задача: " + currentActiveTask);
 }
 
 void MainWindow::on_resetButton_clicked()
