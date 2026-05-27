@@ -18,43 +18,40 @@ public:
     ~MainWindow();
 
 private slots:
-    void on_startButton_clicked();      // запуск таймера
-    void on_resetButton_clicked();      // сброс таймера
-    void on_addTaskButton_clicked();    // добавить задачу
-    void on_deleteTaskButton_clicked(); // удалить задачу
-    void updateTimer();                  // обновление отображения таймера
+    void on_startButton_clicked();
+    void on_restButton_clicked();
+    void on_addTaskButton_clicked();
+    void on_deleteTaskButton_clicked();
     void on_taskList_itemClicked(QListWidgetItem *item);
-    void on_extendRestButton_clicked();
-
+    void updateTimer();
 
 private:
     Ui::MainWindow *ui;
-    QTimer *timer;          // объект таймера
-    int remainingSeconds;   // сколько секунд осталось
-    bool timerActive;       // активен ли таймер
+    QTimer *timer;
+    int remainingSeconds;
+    bool timerActive;
+    bool restButtonBlocked;
     QString currentActiveTask;
+    QString normalizeAnswer(const QString &answer);
 
-    bool isRestMode;           // true = отдых, false = работа
-    int restSeconds;           // сколько секунд отдыха осталось
-    int workSeconds;           // исходное время работы (для расчета отдыха)
+    bool isRestMode;
+    int restSeconds;
+    int workSeconds;
 
-    // Для интегралов
-    int integralType;  // 1=табличный, 2=определенный, 3=неберущийся
+    // Интегралы
+    int integralType;
     QString currentQuestion;
     QString currentAnswer;
-    double lowerLimit;  // нижний предел
-    double upperLimit;  // верхний предел
-    QString formatTime(int seconds);
+    double lowerLimit;
+    double upperLimit;
 
+    QString formatTime(int seconds);
     bool showIntegralDialog(int currentAttempt, int maxAttempts);
-    void generateIntegral();  // генерация разных интегралов
+    void generateIntegral();
     void generateTableIntegral();
     void generateDefiniteIntegral();
     void generatePatternIntegral();
     void generateNonIntegrable();
-
-    friend class TestMinuteInput;
-
 };
 
 #endif

@@ -123,7 +123,7 @@
      <string>Новая задача...</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="resetButton">
+   <widget class="QPushButton" name="restButton">
     <property name="geometry">
      <rect>
       <x>280</x>
@@ -133,7 +133,7 @@
      </rect>
     </property>
     <property name="text">
-     <string>Сбросить таймер</string>
+     <string>Отдохнуть</string>
     </property>
    </widget>
    <widget class="QPushButton" name="addTaskButton">
@@ -189,30 +189,16 @@
       <height>41</height>
      </rect>
     </property>
+    <property name="font">
+     <font>
+      <pointsize>13</pointsize>
+     </font>
+    </property>
     <property name="text">
      <string>Текущая задача: не выбрана</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignmentFlag::AlignCenter</set>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="extendRestButton">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>500</y>
-      <width>251</width>
-      <height>29</height>
-     </rect>
-    </property>
-    <property name="sizePolicy">
-     <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
-      <horstretch>0</horstretch>
-      <verstretch>0</verstretch>
-     </sizepolicy>
-    </property>
-    <property name="text">
-     <string>Продлить отдых (+интеграл)</string>
     </property>
    </widget>
   </widget>
