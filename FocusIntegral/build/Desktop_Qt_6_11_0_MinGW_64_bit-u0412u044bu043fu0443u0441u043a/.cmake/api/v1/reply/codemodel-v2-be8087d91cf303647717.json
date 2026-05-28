@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FocusIntegral",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FocusIntegral::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FocusIntegral-Release-b1d2574bcc8e0145c243.json",
+					"name" : "FocusIntegral",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FocusIntegral_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FocusIntegral_autogen-Release-aed7765d709c43bba408.json",
+					"name" : "FocusIntegral_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FocusIntegral_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FocusIntegral_autogen_timestamp_deps-Release-30262f26642972e7ad6b.json",
+					"name" : "FocusIntegral_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a",
+		"source" : "C:/Users/User/Desktop/Project/FocusIntegral"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

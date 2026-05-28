@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/FocusIntegral.dir
+C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/FocusIntegral_autogen_timestamp_deps.dir
+C:/Users/User/Desktop/Project/FocusIntegral/build/Desktop_Qt_6_11_0_MinGW_64_bit-u0412u044bu043fu0443u0441u043a/CMakeFiles/FocusIntegral_autogen.dir
