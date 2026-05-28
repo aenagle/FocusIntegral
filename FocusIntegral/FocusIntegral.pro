@@ -6,7 +6,12 @@ RC_ICONS = myicon.ico
 
 SOURCES += \
     main.cpp \
-    mainwindow.cpp
+    mainwindow.cpp \
+    mainwindow_helpers.cpp \
+    mainwindow_timer.cpp \
+    mainwindow_tasks.cpp \
+    mainwindow_integrals.cpp \
+    mainwindow_helpers.cpp
 
 HEADERS += \
     mainwindow.h

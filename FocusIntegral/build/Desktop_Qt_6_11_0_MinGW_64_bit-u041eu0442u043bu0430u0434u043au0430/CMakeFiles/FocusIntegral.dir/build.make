@@ -120,11 +120,75 @@ CMakeFiles/FocusIntegral.dir/mainwindow.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FocusIntegral.dir/mainwindow.cpp.s"
 	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Project\FocusIntegral\mainwindow.cpp -o CMakeFiles\FocusIntegral.dir\mainwindow.cpp.s
 
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj: CMakeFiles/FocusIntegral.dir/flags.make
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj: CMakeFiles/FocusIntegral.dir/includes_CXX.rsp
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj: C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_timer.cpp
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj: CMakeFiles/FocusIntegral.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj -MF CMakeFiles\FocusIntegral.dir\mainwindow_timer.cpp.obj.d -o CMakeFiles\FocusIntegral.dir\mainwindow_timer.cpp.obj -c C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_timer.cpp
+
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_timer.cpp > CMakeFiles\FocusIntegral.dir\mainwindow_timer.cpp.i
+
+CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_timer.cpp -o CMakeFiles\FocusIntegral.dir\mainwindow_timer.cpp.s
+
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj: CMakeFiles/FocusIntegral.dir/flags.make
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj: CMakeFiles/FocusIntegral.dir/includes_CXX.rsp
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj: C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_tasks.cpp
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj: CMakeFiles/FocusIntegral.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj -MF CMakeFiles\FocusIntegral.dir\mainwindow_tasks.cpp.obj.d -o CMakeFiles\FocusIntegral.dir\mainwindow_tasks.cpp.obj -c C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_tasks.cpp
+
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_tasks.cpp > CMakeFiles\FocusIntegral.dir\mainwindow_tasks.cpp.i
+
+CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_tasks.cpp -o CMakeFiles\FocusIntegral.dir\mainwindow_tasks.cpp.s
+
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj: CMakeFiles/FocusIntegral.dir/flags.make
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj: CMakeFiles/FocusIntegral.dir/includes_CXX.rsp
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj: C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_integrals.cpp
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj: CMakeFiles/FocusIntegral.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj -MF CMakeFiles\FocusIntegral.dir\mainwindow_integrals.cpp.obj.d -o CMakeFiles\FocusIntegral.dir\mainwindow_integrals.cpp.obj -c C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_integrals.cpp
+
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_integrals.cpp > CMakeFiles\FocusIntegral.dir\mainwindow_integrals.cpp.i
+
+CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_integrals.cpp -o CMakeFiles\FocusIntegral.dir\mainwindow_integrals.cpp.s
+
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj: CMakeFiles/FocusIntegral.dir/flags.make
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj: CMakeFiles/FocusIntegral.dir/includes_CXX.rsp
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj: C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_helpers.cpp
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj: CMakeFiles/FocusIntegral.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj -MF CMakeFiles\FocusIntegral.dir\mainwindow_helpers.cpp.obj.d -o CMakeFiles\FocusIntegral.dir\mainwindow_helpers.cpp.obj -c C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_helpers.cpp
+
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.i"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_helpers.cpp > CMakeFiles\FocusIntegral.dir\mainwindow_helpers.cpp.i
+
+CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.s"
+	C:\Qt\Tools\mingw1310_64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\User\Desktop\Project\FocusIntegral\mainwindow_helpers.cpp -o CMakeFiles\FocusIntegral.dir\mainwindow_helpers.cpp.s
+
 # Object files for target FocusIntegral
 FocusIntegral_OBJECTS = \
 "CMakeFiles/FocusIntegral.dir/FocusIntegral_autogen/mocs_compilation.cpp.obj" \
 "CMakeFiles/FocusIntegral.dir/main.cpp.obj" \
-"CMakeFiles/FocusIntegral.dir/mainwindow.cpp.obj"
+"CMakeFiles/FocusIntegral.dir/mainwindow.cpp.obj" \
+"CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj" \
+"CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj" \
+"CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj" \
+"CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj"
 
 # External object files for target FocusIntegral
 FocusIntegral_EXTERNAL_OBJECTS =
@@ -132,6 +196,10 @@ FocusIntegral_EXTERNAL_OBJECTS =
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/FocusIntegral_autogen/mocs_compilation.cpp.obj
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/main.cpp.obj
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/mainwindow.cpp.obj
+FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj
+FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj
+FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj
+FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/build.make
 FocusIntegral.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Widgets.a
 FocusIntegral.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6Gui.a
@@ -140,7 +208,7 @@ FocusIntegral.exe: C:/Qt/6.11.0/mingw_64/lib/libQt6EntryPoint.a
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/linkLibs.rsp
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/objects1.rsp
 FocusIntegral.exe: CMakeFiles/FocusIntegral.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable FocusIntegral.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\User\Desktop\Project\FocusIntegral\build\Desktop_Qt_6_11_0_MinGW_64_bit-u041eu0442u043bu0430u0434u043au0430\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable FocusIntegral.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\FocusIntegral.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

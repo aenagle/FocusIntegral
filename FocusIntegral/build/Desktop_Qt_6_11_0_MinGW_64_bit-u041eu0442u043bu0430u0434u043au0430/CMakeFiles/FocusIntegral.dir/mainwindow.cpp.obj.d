@@ -449,8 +449,6 @@ CMakeFiles/FocusIntegral.dir/mainwindow.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qmessagebox.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialog.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/qdialogbuttonbox.h \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/QInputDialog \
- C:/Qt/6.11.0/mingw_64/include/QtWidgets/qinputdialog.h \
  C:/Qt/6.11.0/mingw_64/include/QtWidgets/QApplication \
  C:/Qt/6.11.0/mingw_64/include/QtCore/QDir \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qdir.h \
@@ -492,5 +490,4 @@ CMakeFiles/FocusIntegral.dir/mainwindow.cpp.obj: \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qfileinfo.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/qtimezone.h \
  C:/Qt/6.11.0/mingw_64/include/QtCore/QFile \
- C:/Qt/6.11.0/mingw_64/include/QtCore/QCoreApplication \
- C:/Qt/6.11.0/mingw_64/include/QtCore/QDebug
+ C:/Qt/6.11.0/mingw_64/include/QtCore/QCoreApplication

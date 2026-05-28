@@ -226,6 +226,102 @@ mainwindow.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow.cpp.s
 .PHONY : mainwindow.cpp.s
 
+mainwindow_helpers.obj: mainwindow_helpers.cpp.obj
+.PHONY : mainwindow_helpers.obj
+
+# target to build an object file
+mainwindow_helpers.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.obj
+.PHONY : mainwindow_helpers.cpp.obj
+
+mainwindow_helpers.i: mainwindow_helpers.cpp.i
+.PHONY : mainwindow_helpers.i
+
+# target to preprocess a source file
+mainwindow_helpers.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.i
+.PHONY : mainwindow_helpers.cpp.i
+
+mainwindow_helpers.s: mainwindow_helpers.cpp.s
+.PHONY : mainwindow_helpers.s
+
+# target to generate assembly for a file
+mainwindow_helpers.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_helpers.cpp.s
+.PHONY : mainwindow_helpers.cpp.s
+
+mainwindow_integrals.obj: mainwindow_integrals.cpp.obj
+.PHONY : mainwindow_integrals.obj
+
+# target to build an object file
+mainwindow_integrals.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.obj
+.PHONY : mainwindow_integrals.cpp.obj
+
+mainwindow_integrals.i: mainwindow_integrals.cpp.i
+.PHONY : mainwindow_integrals.i
+
+# target to preprocess a source file
+mainwindow_integrals.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.i
+.PHONY : mainwindow_integrals.cpp.i
+
+mainwindow_integrals.s: mainwindow_integrals.cpp.s
+.PHONY : mainwindow_integrals.s
+
+# target to generate assembly for a file
+mainwindow_integrals.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_integrals.cpp.s
+.PHONY : mainwindow_integrals.cpp.s
+
+mainwindow_tasks.obj: mainwindow_tasks.cpp.obj
+.PHONY : mainwindow_tasks.obj
+
+# target to build an object file
+mainwindow_tasks.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.obj
+.PHONY : mainwindow_tasks.cpp.obj
+
+mainwindow_tasks.i: mainwindow_tasks.cpp.i
+.PHONY : mainwindow_tasks.i
+
+# target to preprocess a source file
+mainwindow_tasks.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.i
+.PHONY : mainwindow_tasks.cpp.i
+
+mainwindow_tasks.s: mainwindow_tasks.cpp.s
+.PHONY : mainwindow_tasks.s
+
+# target to generate assembly for a file
+mainwindow_tasks.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_tasks.cpp.s
+.PHONY : mainwindow_tasks.cpp.s
+
+mainwindow_timer.obj: mainwindow_timer.cpp.obj
+.PHONY : mainwindow_timer.obj
+
+# target to build an object file
+mainwindow_timer.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.obj
+.PHONY : mainwindow_timer.cpp.obj
+
+mainwindow_timer.i: mainwindow_timer.cpp.i
+.PHONY : mainwindow_timer.i
+
+# target to preprocess a source file
+mainwindow_timer.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.i
+.PHONY : mainwindow_timer.cpp.i
+
+mainwindow_timer.s: mainwindow_timer.cpp.s
+.PHONY : mainwindow_timer.s
+
+# target to generate assembly for a file
+mainwindow_timer.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\FocusIntegral.dir\build.make CMakeFiles/FocusIntegral.dir/mainwindow_timer.cpp.s
+.PHONY : mainwindow_timer.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -246,6 +342,18 @@ help:
 	@echo ... mainwindow.obj
 	@echo ... mainwindow.i
 	@echo ... mainwindow.s
+	@echo ... mainwindow_helpers.obj
+	@echo ... mainwindow_helpers.i
+	@echo ... mainwindow_helpers.s
+	@echo ... mainwindow_integrals.obj
+	@echo ... mainwindow_integrals.i
+	@echo ... mainwindow_integrals.s
+	@echo ... mainwindow_tasks.obj
+	@echo ... mainwindow_tasks.i
+	@echo ... mainwindow_tasks.s
+	@echo ... mainwindow_timer.obj
+	@echo ... mainwindow_timer.i
+	@echo ... mainwindow_timer.s
 .PHONY : help
 
 

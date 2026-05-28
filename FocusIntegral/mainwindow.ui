@@ -100,7 +100,7 @@
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>80</x>
+      <x>110</x>
       <y>130</y>
       <width>351</width>
       <height>201</height>
@@ -222,8 +222,8 @@
     <property name="font">
      <font>
       <pointsize>15</pointsize>
-      <italic>true</italic>
-      <underline>true</underline>
+      <italic>false</italic>
+      <underline>false</underline>
      </font>
     </property>
     <property name="text">

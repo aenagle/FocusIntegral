@@ -406,3 +406,9 @@ C:/Users/User/Desktop/Project/FocusIntegral/mainwindow.h
 C:/Users/User/Desktop/Project/FocusIntegral/mainwindow.cpp
  uic:ui_mainwindow.h
 C:/Users/User/Desktop/Project/FocusIntegral/main.cpp
+C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_helpers.cpp
+C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_timer.cpp
+ uic:ui_mainwindow.h
+C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_integrals.cpp
+C:/Users/User/Desktop/Project/FocusIntegral/mainwindow_tasks.cpp
+ uic:ui_mainwindow.h

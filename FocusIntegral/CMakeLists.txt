@@ -15,6 +15,10 @@ find_package(Qt6 REQUIRED COMPONENTS Core Widgets)
 set(SOURCES
     main.cpp
     mainwindow.cpp
+    mainwindow_timer.cpp
+    mainwindow_tasks.cpp
+    mainwindow_integrals.cpp
+    mainwindow_helpers.cpp
 )
 
 set(HEADERS
@@ -26,7 +30,11 @@ set(FORMS
 )
 
 # Создаём исполняемый файл
-add_executable(FocusIntegral ${SOURCES} ${HEADERS} ${FORMS})
+add_executable(FocusIntegral ${SOURCES} ${HEADERS} ${FORMS}
+    mainwindow_timer.cpp
+    mainwindow_tasks.cpp
+    mainwindow_integrals.cpp
+    mainwindow_helpers.cpp)
 
 # Линкуем с Qt
 target_link_libraries(FocusIntegral Qt6::Core Qt6::Widgets)
